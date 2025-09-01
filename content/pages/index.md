@@ -6,8 +6,8 @@ sections:
     title: Hero Title Hello
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      This is the HeroSection HeroSection component. You can visually edit this
+      component & add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
